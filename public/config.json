@@ -1,0 +1,11 @@
+{
+  "locals": {
+    "title": "Donate | FreeWifiHK",
+    "description": "Donate to the FreeWifiHK project",
+    "author": "onarray",
+    "email": "contact@freewifihk.com",
+    "url": "http://donate.freewifihk.com"
+  },
+  "defaultTemplate": "index.jade",
+  "filenameTemplate": "/:title"
+}

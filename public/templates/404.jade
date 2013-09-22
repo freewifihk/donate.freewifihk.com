@@ -1,0 +1,15 @@
+extends layout
+
+block prepend title
+  | 404 | 
+
+block content
+  .hero-unit
+    h1 Page not found
+    p Sorry, but the page you were trying to view does not exist.
+    p
+      | It looks like this was the result of either a mistyped address, or an
+      | out-of-date link.
+    p Try heading back to the&nbsp;
+      a(href='/') homepage
+      | .
