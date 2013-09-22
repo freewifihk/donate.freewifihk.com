@@ -1,6 +1,6 @@
-# freewifihk.com
+# donate.freewifihk.com
 
-<freewifihk.com>
+Donate to the FreeWifiHK project.
 
 ## Author
 
